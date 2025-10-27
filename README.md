@@ -1,17 +1,3 @@
-
-<html lang="en">
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Privacy Policy — ALISMIA AI</title>
-  <style>
-    body{font-family:Arial,Helvetica,sans-serif;line-height:1.6;padding:28px;max-width:900px;margin:0 auto;color:#111;background:#fff}
-    h1,h2{color:#111}
-    pre{white-space:pre-wrap}
-    .meta{color:#666;font-size:0.9rem;margin-bottom:1rem}
-    footer{margin-top:2rem;color:#666;font-size:0.85rem}
-  </style>
-</head>
 <body>
   <h1>Privacy Policy</h1>
   <p class="meta">App: ALISMIA AI — Effective date: 2025‑10‑01</p>
